@@ -1,4 +1,4 @@
-# Decompile by Mardis (Tools By MD Mehedi )
+# Decompile by Mardis (Tools By MD:HR )
 # Time Succes decompile : 2023-02-25 22:46:08.421029
 
 import os,sys,time,requests,random,string
@@ -90,7 +90,7 @@ user=str(input(f"\n{g}USERNAME FOR  (INBOX-ME) \n \n{w}USERNAME {r}=>{y} "))
 pas=str(input(f"\n{g}PASSWORD FOR (INBOX ME) \n \n{w}PASSWORD {r}=>{y} "))
 rp= 'HR'
 x = '69'
-if 'MEHEDI'==user and 'mrx'==pas:
+if 'HR'==user and '69'==pas:
 	Axak(g+"\n\n\t\t      LOGIN SUCCESSFUL JOIN MY FACEBOOK GROUP ")
 	os.system('xdg-open https://facebook.com/groups/916220923360813/')
 else:
